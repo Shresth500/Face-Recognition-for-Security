@@ -1,0 +1,6 @@
+f name - Sidharat Nigam 
+ Country - India 
+ height - 6'1 
+ weight - 60 
+ age - 22 
+ Crime - Actor
